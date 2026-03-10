@@ -1,4 +1,4 @@
-![hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=25&lines=Hi,+I'm+Marcin!;Frontend+Developer;Based+in+Madrid)
+![hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=58A6FF&size=25&lines=Hi,+I'm+Marcin!;Frontend+Developer)
 
 
 
