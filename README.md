@@ -16,7 +16,7 @@ I follow a structured learning path via [roadmap.sh](https://roadmap.sh) and con
 
 | Project | Description | Tech |
 |---|---|---|
-| [Accessible Form UI](https://github.com/mch-codes/Accessible-Form-UI) | Keyboard-navigable, screen-reader-friendly form | HTML, CSS | JS
+| [Accessible Form UI](https://github.com/mch-codes/Accessible-Form-UI) | Keyboard-navigable, screen-reader-friendly form | HTML, CSS | JS |
 | [Datepicker UI](https://github.com/mch-codes/Datepicker-UI) | Custom calendar date picker component | HTML, CSS |
 | [Testimonial Cards](https://github.com/mch-codes/Testimonial-Cards) | Responsive testimonial card layout | HTML, CSS |
 | [Image Grid Layout](https://github.com/mch-codes/Image-Grid-Layout) | CSS Grid-based responsive image gallery | CSS |
