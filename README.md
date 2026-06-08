@@ -52,17 +52,6 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mch-codes&show_icons=true&hide_border=true&bg_color=0d0b08&title_color=e8956d&text_color=ede8e0&icon_color=c8a96e&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mch-codes&layout=compact&hide_border=true&bg_color=0d0b08&title_color=e8956d&text_color=ede8e0&count_private=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/e8956d/mch-codes" alt="GitHub contribution chart" />
-</p>
-
 ---
 
 <p align="center">
