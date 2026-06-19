@@ -9,7 +9,7 @@
   <a href="https://www.oidoo.app">
     <img src="https://img.shields.io/badge/oidoo.app-live-e8956d?style=flat-square&logo=vercel&logoColor=white" alt="Oidoo App" />
   </a>
-  <a href="mailto:hola@oidoo.app">
+  <a href="mailto:marcin.chrzusz@gmail.com">
     <img src="https://img.shields.io/badge/hola@oidoo.app-contact-c8a96e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/marcin-chrzuszcz/">
@@ -56,5 +56,5 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 
 <p align="center">
   <em>De la cocina al código.</em><br/>
-  <a href="mailto:hola@oidoo.app">hola@oidoo.app</a>
+  <a href="mailto:hola@oidoo.app">marcin.chrzuszcz@gmail.com</a>
 </p>
