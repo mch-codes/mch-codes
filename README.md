@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/oidoo.app-live-e8956d?style=flat-square&logo=vercel&logoColor=white" alt="Oidoo App" />
   </a>
   <a href="mailto:marcin.chrzusz@gmail.com">
-    <img src="https://img.shields.io/badge/hola@oidoo.app-contact-c8a96e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/marcin.chrzuszcz@gmail.com-contact-c8a96e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/marcin-chrzuszcz/">
     <img src="https://img.shields.io/badge/LinkedIn-connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
