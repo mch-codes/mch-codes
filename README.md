@@ -9,7 +9,7 @@
   <a href="https://www.oidoo.app">
     <img src="https://img.shields.io/badge/oidoo.app-live-e8956d?style=flat-square&logo=vercel&logoColor=white" alt="Oidoo App" />
   </a>
-  <a href="mailto:marcin.chrzusz@gmail.com">
+  <a href="mailto:marcin.chrzuszcz@gmail.com">
     <img src="https://img.shields.io/badge/marcin.chrzuszcz@gmail.com-contact-c8a96e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/marcin-chrzuszcz/">
@@ -47,14 +47,13 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchen management — inventory, recipes, team comms | Next.js · Supabase · Vercel | 🟢 Live |
-| [**Wedding Page**](https://github.com/mch-codes/wedding-page) | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
+| [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer & ex-Chef, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
+| **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
 | **More coming** | New products in development | — | 🔨 Building |
-
----
 
 ---
 
 <p align="center">
   <em>De la cocina al código.</em><br/>
-  <a href="mailto:hola@oidoo.app">marcin.chrzuszcz@gmail.com</a>
+  <a href="mailto:marcin.chrzuszcz@gmail.com">marcin.chrzuszcz@gmail.com</a>
 </p>
