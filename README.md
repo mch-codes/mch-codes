@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Marcin 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer · Ex-Chef · Building real products with modern tools</strong><br/>
-  <em>Madrid, España 🇪🇸</em>
+  <strong>"I build web applications with Next.js, TypeScript, and Supabase. My most recent project is Oidoo.app — a management tool for professional kitchens, built and shipped from scratch.
+Before tech I spent years working as a chef. That background gives me something most developers don't have: I understand the problems of the hospitality industry from the inside, and I can build the tools to solve them.
+Open to junior developer roles and freelance projects."</em>
 </p>
 
 <p align="center">
