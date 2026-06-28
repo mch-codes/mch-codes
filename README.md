@@ -1,14 +1,15 @@
 <h1 align="center">Hey, I'm Marcin 👋</h1>
 
 <p align="center">
-  <strong>"I build web applications with Next.js, TypeScript, and Supabase. My most recent project is Oidoo.app — a management tool for professional kitchens, built and shipped from scratch.
-Before tech I spent years working as a chef. That background gives me something most developers don't have: I understand the problems of the hospitality industry from the inside, and I can build the tools to solve them.
-Open to junior developer roles and freelance projects."</em>
+  Fullstack Developer · Next.js · TypeScript · Madrid
 </p>
 
 <p align="center">
   <a href="https://www.oidoo.app">
     <img src="https://img.shields.io/badge/oidoo.app-live-e8956d?style=flat-square&logo=vercel&logoColor=white" alt="Oidoo App" />
+  </a>
+  <a href="https://marcin-portfolio-mocha.vercel.app">
+    <img src="https://img.shields.io/badge/portfolio-visit-c8a96e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:marcin.chrzuszcz@gmail.com">
     <img src="https://img.shields.io/badge/marcin.chrzuszcz@gmail.com-contact-c8a96e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -48,9 +49,8 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchen management — inventory, recipes, team comms | Next.js · Supabase · Vercel | 🟢 Live |
-| [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer & ex-Chef, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
+| [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
 | **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
-| **More coming** | New products in development | — | 🔨 Building |
 
 ---
 
