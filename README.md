@@ -52,6 +52,7 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
 | **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
 | [**Fontanería Urgente Lavapiés**](https://fontaneria-urgente-lavapies.vercel.app) | Freelance landing page for a fictional plumber client — Lavapiés, Madrid | Vite · React · TypeScript · Tailwind | 🟢 Live |
+| [**Fisio Vitalia**](https://fisio-vitalia-landing.vercel.app) | Freelance landing page for a fictional physiotherapy clinic — Chamberí, Madrid | Next.js · TypeScript · Tailwind | 🟢 Live |
 
 ---
 
