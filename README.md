@@ -51,6 +51,7 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchen management — inventory, recipes, team comms | Next.js · Supabase · Vercel | 🟢 Live |
 | [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
 | **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
+| [**Fontanería Urgente Lavapiés**](https://fontaneria-urgente-lavapies.vercel.app) | Freelance landing page for a fictional plumber client — Lavapiés, Madrid | Vite · React · TypeScript · Tailwind | 🟢 Live |
 
 ---
 
