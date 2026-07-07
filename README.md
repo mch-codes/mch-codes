@@ -39,7 +39,6 @@ Currently open to **freelance projects** and **fullstack developer roles**.
   <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ---
