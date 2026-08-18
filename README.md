@@ -51,9 +51,7 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchen management — station checklists, centralized recipes, and service logs, fully digital | Next.js · Supabase · Vercel | 🟢 Live |
 | [**Hebras**](https://hebras-lemon.vercel.app) | Client website for a handmade crochet brand in Madrid — piece catalogue with contact through Instagram | Next.js · TypeScript · Tailwind | 🟢 Live |
 | **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
-| [**Fontanería Urgente Lavapiés**](https://fontaneria-urgente-lavapies.vercel.app) | Freelance landing page for a fictional plumber client — Lavapiés, Madrid | Next.js · TypeScript · Tailwind | 🟢 Live |
-| [**Fisio Vitalia**](https://fisio-vitalia-landing.vercel.app) | Freelance landing page for a fictional physiotherapy clinic — Chamberí, Madrid | Next.js · TypeScript · Tailwind | 🟢 Live |
-| [**Taberna El Fogón**](https://taberna-el-fogon-landing.vercel.app) | Bilingual freelance landing page for a fictional Castilian tavern — La Latina, Madrid | Next.js · TypeScript · Tailwind | 🟢 Live |
+
 
 ---
 
