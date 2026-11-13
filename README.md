@@ -23,9 +23,9 @@
 
 ### About me
 
-I spent 10+ years as a professional cook in Madrid's kitchens. Then I taught myself to code — no bootcamp, no CS degree — by building real things.
+I spent 10+ years as a professional cook in London and Madrid. Then I taught myself to code — no bootcamp, no CS degree — by building real things.
 
-Using AI as a tool, I shipped **Oidoo**, a live SaaS product for professional kitchen management, from zero to production. The same discipline I applied in the kitchen — precision, consistency, delivering under pressure — I now apply to every line of code.
+Using AI as a tool, I shipped **Oidoo**, a multi-tenant SaaS for professional kitchens, from zero to production — now used by pilot kitchens in Spain. The same discipline I applied in the kitchen — precision, consistency, delivering under pressure — I now apply to every line of code.
 
 Currently open to **freelance projects** and **fullstack developer roles**.
 
@@ -39,6 +39,10 @@ Currently open to **freelance projects** and **fullstack developer roles**.
   <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-d97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5a0fc8?style=flat-square&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362d59?style=flat-square&logo=sentry&logoColor=white" />
 </p>
 
 ---
@@ -48,7 +52,8 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**Portfolio**](https://marcin-portfolio-mocha.vercel.app) | Personal developer portfolio — Fullstack Developer, Madrid | Next.js · Tailwind · Vercel | 🟢 Live |
-| [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchen management — station checklists, centralized recipes, and service logs, fully digital | Next.js · Supabase · Vercel | 🟢 Live |
+| [**Oidoo**](https://www.oidoo.app) | SaaS for professional kitchens — recipes with AI import (PDF, Word, photo), 14 EU allergens, checklists and daily prep forecast. Installable PWA | Next.js · TypeScript · Supabase · Stripe · Claude AI · Vercel | 🟢 Live |
+| [**almenos1minuto**](https://almenos1minuto.vercel.app) | Editorial watch site for a client, with a custom CMS so she updates photos and text every week | Next.js · Supabase | 🟢 Live |
 | [**Hebras**](https://hebras-lemon.vercel.app) | Client website for a handmade crochet brand in Madrid — piece catalogue with contact through Instagram | Next.js · TypeScript · Tailwind | 🟢 Live |
 | **Wedding Page** | Bilingual wedding website (ES/PL) with RSVP system | HTML · CSS · JS | ✅ Done |
 
@@ -56,6 +61,5 @@ Currently open to **freelance projects** and **fullstack developer roles**.
 ---
 
 <p align="center">
-  <em>De la cocina al código.</em><br/>
-  <a href="mailto:marcin.chrzuszcz@gmail.com">marcin.chrzuszcz@gmail.com</a>
+  <em>De la cocina al código.</em>
 </p>
